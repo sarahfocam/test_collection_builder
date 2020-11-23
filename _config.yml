@@ -12,7 +12,7 @@ url: https://sarahfocam.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /test_collection_builder
 # location of code, the full url to your github repository
-source-code: https://sarahfocam.github.io/test_collection_builder/
+source-code: https://github.com/sarahfocam/test_collection_builder
 
 ##########
 # SITE SETTINGS
